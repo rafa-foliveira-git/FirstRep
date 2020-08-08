@@ -1,1 +1,2 @@
 Teste do comando PULL
+Alterado
